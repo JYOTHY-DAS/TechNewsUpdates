@@ -18,7 +18,7 @@ git clone https://github.com/JYOTHY-DAS/TechNewsUpdates.git
 
 ### Accessing News Updates
 - Navigate to the latest update files.
-- Each update is organized by date in the format `DD-MM-YYYY.md`.
+- Each update is organized by date in the format `DD-Month-YYYY.md`.
 - Read the latest insights directly from the markdown files.
 
 ## Contribution Guidelines
