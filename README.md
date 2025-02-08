@@ -35,6 +35,7 @@ We welcome contributions to improve the quality and coverage of tech news update
 
 ## License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE.md) file for details.
+(This repository primarily contains written news content, but it is shared under the permissive MIT License to encourage free use and distribution.)
 
 ## Contact
 For suggestions, collaborations, or issues, reach out via:
