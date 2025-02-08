@@ -34,7 +34,7 @@ We welcome contributions to improve the quality and coverage of tech news update
 - Format contributions using markdown for readability.
 
 ## License
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE.md) file for details.
 
 ## Contact
 For suggestions, collaborations, or issues, reach out via:
