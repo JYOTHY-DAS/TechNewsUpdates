@@ -11,7 +11,7 @@
 
 ## Usage
 ### Cloning the Repository
-To get started with **TechNewsUpdates**, clone the repository using:
+To begin using TechNewsUpdates, clone the repository by executing the following command:
 ```bash
 git clone https://github.com/JYOTHY-DAS/TechNewsUpdates.git
 ```
